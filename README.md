@@ -1,5 +1,5 @@
 # Diziler 
-Bu pratikte 4 aşamdan oluşan bir kod dizisi bulunuyor.
+Bu pratikte 4 aşamadan oluşan bir kod dizisi bulunuyor.
 
 1 - 10 adet tam sayı verisi alacak bir dizi tanımlayoruz.
 
